@@ -4,20 +4,12 @@
  */
 
 //Define datos conexion BD DISTRITO Entorno Linux
-define("DB_DSN","dblib:host=10.8.65.17;dbname=VISADO");
-
-//Conexion BD DISTRITO ENTORNO WINDOWS
-//define("DB_DSN","mssql:host=10.8.65.17;dbname=VISADO");
+define("DB_DSN","dblib:host=.......;dbname=xxxxxx");
 
 
 
-//
-//DEFINE DATOS CONEXION BD CASA ENTORNO LINUX
-//define("DB_DSN","dblib:host=192.168.1.34;dbname=CMANDOS");
-//define("DB_DSN1","dblib:host=192.168.1.34;dbname=PERSONAL");
-
-define("DB_USERNAME", "sa");
-define("DB_PASSWORD", "servidor");
+define("DB_USERNAME", "xxx");
+define("DB_PASSWORD", "xxxxxx");
 define("PAGE_SIZE", 5);
 
 
